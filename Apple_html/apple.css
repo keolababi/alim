@@ -460,4 +460,7 @@ h1 {
     gap: 12px;
     padding: 12px;
   }
+  .aid{
+    background-color: white;
+  }
 }
