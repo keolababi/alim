@@ -1,0 +1,463 @@
+.bg4 {
+  background-image: url("/Apple_img/bg4.jpg");
+  width: 100%;
+  height: 580px;
+  background-position: center;
+}
+.bg5 {
+  background-image: url("/Apple_img/bg5.jpg");
+  width: 100%;
+  height: 580px;
+  background-position: center;
+}
+.bg6 {
+  background-image: url("/Apple_img/bg6.jpg");
+  width: 100%;
+  height: 580px;
+  background-position: center;
+}
+.bg7 {
+  background-image: url("/Apple_img/bg7.jpg");
+  width: 100%;
+  height: 580px;
+  background-position: center;
+}
+.bg8 {
+  background-image: url("/Apple_img/bg8.jpg");
+  width: 100%;
+  height: 580px;
+  background-position: center;
+}
+.bg9 {
+  background-image: url("/Apple_img/bg9.jpg");
+  width: 100%;
+  height: 580px;
+  background-position: center;
+}
+
+body {
+  margin: 0;
+  font-family: Inter;
+}
+.navitems {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+  font-family: Inter;
+  font-size: 12px;
+  color: #000;
+  font-weight: 400;
+}
+.nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+  background-color: #f7f7f9;
+}
+.menuicon {
+  display: none;
+}
+
+.undernav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  color: #1d1d1f;
+  text-align: center;
+}
+.bg1 {
+  background-image: url("/Apple_img/bg1.jpg");
+  width: 100%;
+  height: 692px;
+  background-position: center;
+}
+
+.z1 {
+  z-index: 1;
+}
+h1 {
+  margin: 0;
+}
+.ipinfostyle {
+  color: #f5f5f7;
+  font-size: 26px;
+  font-weight: 600;
+  letter-spacing: -0.28px;
+}
+.ipinfostyle2 {
+  color: #f5f5f7;
+  font-size: 24px;
+  font-weight: 400;
+}
+.ipinfostyle2 p {
+  margin: 0;
+}
+.border1 {
+  border: solid 0.1px #0071e3;
+  border-radius: 999px;
+  background: #0071e3;
+  color: #fff;
+
+  font-size: 16px;
+  font-weight: 400;
+  width: 123px;
+  height: 44px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.border1 p {
+  margin: 0%;
+}
+.border2 {
+  border: solid 1px #0071e3;
+  border-radius: 999px;
+
+  color: #2997ff;
+
+  font-size: 16px;
+
+  font-weight: 400;
+
+  width: 68px;
+  height: 44px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.border2 p {
+  margin: 0%;
+}
+.borders {
+  display: flex;
+  gap: 16px;
+}
+.ipinfo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  gap: 16px;
+  padding-top: 55px;
+}
+
+.bg2 {
+  background-image: url("/Apple_img/bg2.jpg");
+  width: 100%;
+  height: 692px;
+  background-position: center;
+  margin-top: 12px;
+}
+.bg3 {
+  background-image: url("/Apple_img/applelogobg3.jpg");
+  width: 100%;
+  height: 692px;
+  background-position: center;
+  margin-top: 12px;
+  font-family: Inter;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+.gift {
+  color: #000;
+
+  font-size: 26px;
+
+  font-weight: 600;
+}
+.make {
+  color: #000;
+
+  font-size: 24px;
+
+  font-weight: 400;
+}
+.make p {
+  margin: 0;
+}
+.borderbg3 {
+  border: solid 0.1px #0071e3;
+  border-radius: 999px;
+  background: #0071e3;
+  color: #fff;
+  font-size: 16px;
+
+  font-weight: 400;
+  width: 114px;
+  height: 44px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.borderbg3 p {
+  margin: 0%;
+}
+.textbg3 {
+  gap: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-bottom: 76px;
+}
+.textbg3tablet {
+  display: none;
+}
+.int {
+  display: none;
+}
+.container {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  gap: 12px;
+  padding: 12px;
+}
+
+.textbg4 {
+  gap: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-bottom: 76px;
+  padding-top: 30px;
+}
+.intint {
+  background: linear-gradient(
+    90deg,
+    #0090f7 0%,
+    #ba62fc 33.33%,
+    #f2416b 66.67%,
+    #f55600 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 20px;
+  padding-bottom: 62px;
+}
+.bg4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+
+  width: 100%;
+}
+.airpodstwo {
+  color: #f5f5f7;
+  text-align: center;
+  font-family: Inter;
+  font-size: 36px;
+  font-weight: 600;
+}
+.aid {
+  color: #f5f5f7;
+  text-align: center;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+}
+.bg5 {
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: end;
+  padding-bottom: 30px;
+}
+.airpodstwo p {
+  margin: 0%;
+}
+@media (max-width: 768px) {
+  .int {
+    display: block;
+  }
+  .nav {
+    justify-content: space-between;
+    padding-left: 16px;
+    padding-right: 15px;
+  }
+  .navitems {
+    display: none;
+  }
+  .menuicon {
+    display: block;
+  }
+  .bg2 {
+    background-image: url("/Apple_img/bg2tablet.jpg");
+    width: 100%;
+    height: 650px;
+    background-position: center;
+  }
+  .bg1 {
+    background-image: url(/Apple_img/bg1tablet.jpg);
+    width: 100%;
+    height: 692px;
+    background-position: center;
+  }
+  .bg3 {
+    background-image: url("/Apple_img/bg3tablet.jpg");
+    width: 100%;
+    height: 650px;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .textbg3 {
+    display: none;
+  }
+  .faster {
+    color: #000;
+
+    font-family: Inter;
+    font-size: 22px;
+
+    font-weight: 400;
+  }
+  .textbg3tablet {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    padding-top: 60px;
+  }
+  .int {
+    background: linear-gradient(
+      90deg,
+      #0090f7 0%,
+      #ba62fc 33.33%,
+      #f2416b 66.67%,
+      #f55600 100%
+    );
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 20px;
+    padding-bottom: 62px;
+  }
+}
+@media (max-width: 390px) {
+  .bg1 {
+    background-image: url(/Apple_img/bg1mobile.jpg);
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+  }
+  .ipinfostyle {
+    color: #f5f5f7;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: -0.28px;
+  }
+  .ipinfostyle2 {
+    color: #f5f5f7;
+    font-size: 18px;
+    font-weight: 400;
+  }
+  .ipinfostyle2 p {
+    margin: 0;
+  }
+  .border1 {
+    border: solid 0.1px #0071e3;
+    border-radius: 999px;
+    background: #0071e3;
+    color: #fff;
+
+    font-size: 10px;
+    font-weight: 400;
+    width: 75px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .border1 p {
+    margin: 0%;
+  }
+  .border2 {
+    border: solid 1px #0071e3;
+    border-radius: 999px;
+
+    color: #2997ff;
+
+    font-size: 10px;
+
+    font-weight: 400;
+
+    width: 26px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .border2 p {
+    margin: 0%;
+  }
+  .borders {
+    display: flex;
+    gap: 12px;
+  }
+  .bottom {
+    justify-content: flex-end !important;
+  }
+  .ipinfo {
+    gap: 8px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .bg2 {
+    background-image: url("/Apple_img/bg2mobile.jpg");
+    width: 100%;
+    height: 500px;
+    background-position: center;
+  }
+  .bg3 {
+    background-image: url("/Apple_img/bg3mobile.jpg");
+    width: 100%;
+    height: 500px;
+  }
+  .int {
+    background: linear-gradient(
+      90deg,
+      #0090f7 0%,
+      #ba62fc 33.33%,
+      #f2416b 66.67%,
+      #f55600 100%
+    );
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 15px;
+    padding-bottom: 40px;
+  }
+  .faster {
+    font-size: 18px;
+  }
+  .container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 12px;
+    padding: 12px;
+  }
+}
